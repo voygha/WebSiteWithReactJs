@@ -1,0 +1,26 @@
+#d-block {
+    margin: 0 auto;  /*important */
+    position: relative;
+    width: 310px;
+ }
+ body{
+    /*background-color: brown;*/
+ }
+ .hola {
+   width: 100%;
+   text-decoration: none;
+ }
+ .carrous{
+   font-size: 2rem;
+   color: white;
+ }
+ .header3{
+   font-size: 5rem;
+   color:white;
+ }
+ .decoration{
+   text-decoration: none;
+ }
+ a:link, a:visited, a:active {
+   text-decoration:none;
+}

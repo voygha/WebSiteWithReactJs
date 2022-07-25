@@ -68,3 +68,49 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Capturas del Sitio
+
+<center><h1>Home</h1></center>
+<p>Página de inicio del sitio Web</p>
+<center>
+<img src="public\img\home1.png" alt="My cool logo" width="1200px"/>
+</center>
+<br><br>
+<p>Segunda Parte Página Home</p>
+<center>
+<img src="public\img\home2.png" alt="My cool logo" width="1200px"/>
+</center>
+<p>Incluye un carrousel que muestra imagenes Cute</p>
+<br><br>
+<center><h1>Nosotros</h1></center>
+<p>Información descriptiva de Ej para una empresa</p>
+<br>
+<center>
+<img src="public\img\nosotros.png"  alt="My cool logo" width="1200px"/>
+</center>
+<br>
+<center><h1>Servicios</h1></center>
+<center>
+<img src="public\img\servicios.png"  alt="My cool logo" width="1200px"/>
+</center>
+<p>Información descriptiva de Ej sobre los servicios con los que cuenta una empresa</p>
+<br>
+<center><h1>Contacto</h1></center>
+<p>Información descriptiva de Ej de contacto con un formulario para una empresa</p>
+<br>
+<center>
+<img src="public\img\contacto.png"  alt="My cool logo" width="1200px"/>
+</center>
+<br>
+<center><h1>Post Api</h1></center>
+<p>Información obtenida de una API Publica</p>
+<p>En la cual se muestran algunos datos como</p>
+<p>El id de un post, el titulo y la descripcion de estos</p>
+<p>La API que se uso se encuentra en el siguiente enlace:</p>
+<br>
+<p >https://jsonplaceholder.typicode.com/ /post</p>
+<br>
+<center>
+<img src="public\img\postAPI.png"  alt="My cool logo" width="1200px"/>
+</center>
